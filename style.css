@@ -1,0 +1,20 @@
+.navbar-brand img{
+    width: 50px;
+}
+
+.carousel-item{
+    height: 900px;
+}
+
+.carousel-item img{
+    height: 100%;
+    object-fit: cover; /*  ajustar a imagem de modo que ela cubra o espaço disponível*/
+}
+
+
+.container img {
+    height: 100%
+}
+
+
+
